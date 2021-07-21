@@ -1,1 +1,1 @@
-## Watch Better - Pleeeeaaaasssseee give me a new title!!!!!
+## Watch Better - Diverse Movie Database App
