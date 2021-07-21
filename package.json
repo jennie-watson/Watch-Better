@@ -16,7 +16,8 @@
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
     "sqlite3": "^4.0.9",
-    "superagent": "^5.1.0"
+    "superagent": "^5.1.0",
+    "node": "v14.16.0"
   },
   "scripts": {
     "start": "react-scripts start",
